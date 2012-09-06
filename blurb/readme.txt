@@ -4,7 +4,7 @@ Contributors:loushou, playwithtoy
 
 Donate link: http://www.custom-blurb.com/donate
 
-Tags: blurb, most recent
+Tags: blurb, most recent, sidebar, plugin, widget, advanced most recent,category posts, recent, recent posts, thumbnail
 
 Requires at least: 3.2.2
 Tested up to: 3.2.2
