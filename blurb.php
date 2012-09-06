@@ -18,7 +18,7 @@ require_once 'findpost.class.php';
 if (!class_exists('blurb_widget')):
 
 	class blurb_widget extends WP_Widget {
-		protected static $_id = 'blurb';
+		protected static $_id = 'custom-blurb';
 		protected static $_template = 'default';
 		protected static $_name = 'Custom Blurb Widget';
 		protected static $_defaults = array(

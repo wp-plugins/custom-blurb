@@ -12,7 +12,7 @@ REV HISTORY
 if (!class_exists('qs_core_base_findpost')):
 
 	class qs_core_base_findpost {
-		protected static $_id = 'blurb';
+		protected static $_id = 'custom-blurb';
 		protected static $_js_root; // root js for this sub-plugin
 		protected static $_css_root;
 		protected static $version = '1.0-lou'; // version for js and css for this sub-plugin
